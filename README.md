@@ -1,7 +1,3 @@
-Here’s your **README.md** file in plain text format:  
-
----
-
 # Spring Boot REST API  
 
 ## Overview  
